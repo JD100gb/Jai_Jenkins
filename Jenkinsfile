@@ -13,7 +13,7 @@ pipeline {
         }
          stage('Hello') {
             steps {
-                echo 'Hello World i am 1029'
+                echo 'Hello World'
             }
         }
     }
