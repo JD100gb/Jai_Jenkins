@@ -13,7 +13,7 @@ pipeline {
         }
          stage('Hello') {
             steps {
-                echo 'index.html'
+                echo 'Hello World'
             }
         }
     }
